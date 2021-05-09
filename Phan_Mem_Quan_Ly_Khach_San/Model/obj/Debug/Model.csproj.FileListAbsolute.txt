@@ -1,0 +1,26 @@
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\bin\Debug\Model.dll
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\bin\Debug\Model.pdb
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\bin\Debug\DTO.dll
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\bin\Debug\DTO.pdb
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\obj\Debug\Model.dll
+C:\Users\My Laptop\source\repos\Lab23_10_2020\Model\obj\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\bin\Debug\Model.dll
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\bin\Debug\Model.pdb
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\obj\Debug\Model.dll
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\Model\obj\Debug\Model.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\bin\Debug\Model.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\bin\Debug\Model.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\bin\Debug\DTO.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\bin\Debug\DTO.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\obj\Debug\Model.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Model\obj\Debug\Model.pdb

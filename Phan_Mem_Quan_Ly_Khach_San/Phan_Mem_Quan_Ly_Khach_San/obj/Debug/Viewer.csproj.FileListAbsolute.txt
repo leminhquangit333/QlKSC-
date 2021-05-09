@@ -1,0 +1,74 @@
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe.config
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangNhap.resources
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemMotKhachSan.resources
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.GiaoDienChinh.resources
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangKy.resources
+C:\Users\Admin\source\repos\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csprojAssemblyReference.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe.config
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangKy.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangNhap.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.GiaoDienChinh.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemMotKhachSan.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThuePhong.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csprojAssemblyReference.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe.config
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csprojAssemblyReference.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangKy.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangNhap.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.GiaoDienChinh.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.Properties.Resources.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemMotKhachSan.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThuePhong.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.GenerateResource.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DichVuPhong.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThanhToanPhong.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemDichVuMoi.resources
+C:\Windows Form\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DatPhong.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe.config
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csprojAssemblyReference.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DangNhap.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.DatPhong.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.GiaoDienChinh.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.Properties.Resources.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThanhToanPhong.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThongTinTaiKhoan.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.GenerateResource.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.exe
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Controrler.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\DTO.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Model.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Controrler.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\DTO.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\bin\Debug\Model.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Viewer.csproj.CopyComplete
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemNhanVien.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThemDichVu.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.SuaDichVu.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.SuaNhanVien.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.ThueTheoGio.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\Phan_Mem_Quan_Ly_Khach_San.SuDungDichVu.resources
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\RdlCompile.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\Phan_Mem_Quan_Ly_Khach_San\obj\Debug\RdlCompile.compiled

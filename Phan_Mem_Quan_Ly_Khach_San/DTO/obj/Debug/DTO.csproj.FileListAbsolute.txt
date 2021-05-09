@@ -1,0 +1,16 @@
+C:\Users\My Laptop\source\repos\Lab23_10_2020\DTO\bin\Debug\DTO.dll
+C:\Users\My Laptop\source\repos\Lab23_10_2020\DTO\bin\Debug\DTO.pdb
+C:\Users\My Laptop\source\repos\Lab23_10_2020\DTO\obj\Debug\DTO.dll
+C:\Users\My Laptop\source\repos\Lab23_10_2020\DTO\obj\Debug\DTO.pdb
+C:\Users\My Laptop\source\repos\Lab23_10_2020\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\OneDrive\Documents\source\repos\Lab23_10_2020\Lab23_10_2020\DTO\obj\Debug\DTO.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\DTO\bin\Debug\DTO.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\DTO\bin\Debug\DTO.pdb
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\DTO\obj\Debug\DTO.dll
+D:\Đồ án C#\Phan_Mem_Quan_Ly_Khach_San\DTO\obj\Debug\DTO.pdb
